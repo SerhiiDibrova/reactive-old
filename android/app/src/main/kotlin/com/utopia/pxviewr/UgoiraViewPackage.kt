@@ -1,4 +1,4 @@
-package com.utopia.pxviewr.UgoiraView
+package com.utopia.UgoiraView
 
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.JavaScriptModule
